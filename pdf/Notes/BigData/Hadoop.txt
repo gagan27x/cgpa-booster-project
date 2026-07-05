@@ -1,0 +1,156 @@
+Hadoop
+
+cd C:\hadoopsetup\hadoop-3.2.4\sbin
+start-all.cmd
+
+jps
+
+hdfs dfs -ls /
+hdfs dfs -mkdir /gagan
+hdfs dfs -ls /
+hdfs dfs -touchz /demo.txt
+
+hdfs dfs -put "E:\Downloads\data.txt" /gagan   -> past file in directry
+hdfs dfs -ls /gagan
+
+hdfs dfs -cat /gagan/data.txt                  -> show content in file
+
+hdfs dfs -copyFromLocal "E:\Downloads\data.txt" /gagan
+
+16/03/26
+cp
+mv
+
+
+hdfs dfs -ls -R /
+
+hdfs dfs -test -d /path_of_file          ->d-directry if exist 0
+echo %errorlevel%
+
+hdfs dfs -test -f /path_of_file          ->f-file if exist 0
+echo %errorlevel%
+
+hdfs dfs -test -e /path_of_file          ->e-exist if exist 0
+echo %errorlevel%
+
+hdfs dfs -test -z /demo.txt              ->z- check file is empty or not
+echo %errorlevel%
+
+hdfs dfs -du /
+
+hdfs dfs -dus /
+
+hdfs dfs -mkdir /merge
+
+merge in next class
+
+get merge command
+
+
+hdfs dfs -chgrp groupName /Gagan           ->change group
+
+hdfs dfs -chown rio /data.txt              ->change owner
+
+hdfs dfs -chown rio:meow /demo.txt          ->change owner and group both
+
+hdfs dfs -setrep 3 /demo.txt           ->change replication factor of demo.txt file
+
+
+
+4-read
+2-write
+1-excecute
+
+hdfs dfs -chmod 777 /demo.txt
+
+hdfs dfs -head /data.txt
+hdfs dfs -tail /data.txt
+
+
+
+hdfs dfs -put "E:\1.txt" /merge
+hdfs dfs -put "E:\2.txt" /merge
+hdfs dfs -put "E:\3.txt" /merge
+
+hdfs dfs -getmerge /merge C:/Users/Gagan/Desktop/merged.txt
+
+
+
+hdfs dfs -appendToFile "C:/Users/Gagan/Desktop/merged.txt" /demo.txt
+
+hdfs dfs -count /
+
+word count problem in Hadoop(28March)
+
+build path on WordCount.java ->add external -> common and mapreduce
+                             ->export->jar file
+
+hdfs dfs -put "E:\Downloads\data.txt" /input
+hadoop jar "E:\Downloads\gagan.jar" /input /output
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.

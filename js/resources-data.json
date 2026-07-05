@@ -1,0 +1,3154 @@
+[
+  {
+    "name": "A STAR.docx.pdf",
+    "path": "pdf/Notes/AI/A STAR.docx.pdf",
+    "category": "notes",
+    "subject": "AI",
+    "size": "1.1 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "best first search.docx",
+    "path": "pdf/Notes/AI/best first search.docx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "7.5 MB",
+    "type": "docx"
+  },
+  {
+    "name": "BFS 8 puzzle.pdf",
+    "path": "pdf/Notes/AI/BFS 8 puzzle.pdf",
+    "category": "notes",
+    "subject": "AI",
+    "size": "1.4 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "chatbotReport.pdf",
+    "path": "pdf/Notes/AI/chatbotReport.pdf",
+    "category": "notes",
+    "subject": "AI",
+    "size": "573.1 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "CSP.docx",
+    "path": "pdf/Notes/AI/CSP.docx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "1.7 MB",
+    "type": "docx"
+  },
+  {
+    "name": "CSP1.docx",
+    "path": "pdf/Notes/AI/CSP1.docx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "7 MB",
+    "type": "docx"
+  },
+  {
+    "name": "greedy 1.docx",
+    "path": "pdf/Notes/AI/greedy 1.docx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "4.3 MB",
+    "type": "docx"
+  },
+  {
+    "name": "HILL CLIMBING EXAMPLE.docx",
+    "path": "pdf/Notes/AI/HILL CLIMBING EXAMPLE.docx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "3.5 MB",
+    "type": "docx"
+  },
+  {
+    "name": "hill climbing.pdf",
+    "path": "pdf/Notes/AI/hill climbing.pdf",
+    "category": "notes",
+    "subject": "AI",
+    "size": "2.4 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "LECT 1.ppt",
+    "path": "pdf/Notes/AI/LECT 1.ppt",
+    "category": "notes",
+    "subject": "AI",
+    "size": "670 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "LECT 2.ppt",
+    "path": "pdf/Notes/AI/LECT 2.ppt",
+    "category": "notes",
+    "subject": "AI",
+    "size": "598.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "LECT 3.ppt",
+    "path": "pdf/Notes/AI/LECT 3.ppt",
+    "category": "notes",
+    "subject": "AI",
+    "size": "408.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "LECT 4.ppt",
+    "path": "pdf/Notes/AI/LECT 4.ppt",
+    "category": "notes",
+    "subject": "AI",
+    "size": "470.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "LECTURE 1.pptx",
+    "path": "pdf/Notes/AI/LECTURE 1.pptx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "10.2 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "LECTURE 2.pptx",
+    "path": "pdf/Notes/AI/LECTURE 2.pptx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "870.1 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "LECTURE 3.pptx",
+    "path": "pdf/Notes/AI/LECTURE 3.pptx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "2.8 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "LECTURE 4.pptx",
+    "path": "pdf/Notes/AI/LECTURE 4.pptx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "12.9 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "LECTURE 5.pptx",
+    "path": "pdf/Notes/AI/LECTURE 5.pptx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "1.9 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "LECTURE 6.pptx",
+    "path": "pdf/Notes/AI/LECTURE 6.pptx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "1.4 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "LECTURE 7.pptx",
+    "path": "pdf/Notes/AI/LECTURE 7.pptx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "1.4 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "PAtent-1.docx",
+    "path": "pdf/Notes/AI/PAtent-1.docx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "254.1 KB",
+    "type": "docx"
+  },
+  {
+    "name": "TSP.docx",
+    "path": "pdf/Notes/AI/TSP.docx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "624 KB",
+    "type": "docx"
+  },
+  {
+    "name": "LECTURE 1.pptx",
+    "path": "pdf/Notes/AI/UNIT-1/LECTURE 1.pptx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "10.2 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "LECTURE 2.pptx",
+    "path": "pdf/Notes/AI/UNIT-1/LECTURE 2.pptx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "870.1 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "LECTURE 3.pptx",
+    "path": "pdf/Notes/AI/UNIT-1/LECTURE 3.pptx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "2.8 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "LECTURE 4.pptx",
+    "path": "pdf/Notes/AI/UNIT-1/LECTURE 4.pptx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "12.9 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "LECTURE 5.pptx",
+    "path": "pdf/Notes/AI/UNIT-1/LECTURE 5.pptx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "1.9 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "LECTURE 6.pptx",
+    "path": "pdf/Notes/AI/UNIT-1/LECTURE 6.pptx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "1.4 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "LECTURE 7.pptx",
+    "path": "pdf/Notes/AI/UNIT-1/LECTURE 7.pptx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "1.4 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "lesson 3 unit 1.docx",
+    "path": "pdf/Notes/AI/UNIT-1/lesson 3 unit 1.docx",
+    "category": "notes",
+    "subject": "AI",
+    "size": "4.1 MB",
+    "type": "docx"
+  },
+  {
+    "name": "LECT 1.ppt",
+    "path": "pdf/Notes/AI/UNIT-2/LECT 1.ppt",
+    "category": "notes",
+    "subject": "AI",
+    "size": "670 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "LECT 2.ppt",
+    "path": "pdf/Notes/AI/UNIT-2/LECT 2.ppt",
+    "category": "notes",
+    "subject": "AI",
+    "size": "598.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "LECT 3.ppt",
+    "path": "pdf/Notes/AI/UNIT-2/LECT 3.ppt",
+    "category": "notes",
+    "subject": "AI",
+    "size": "408.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "LECT 4.ppt",
+    "path": "pdf/Notes/AI/UNIT-2/LECT 4.ppt",
+    "category": "notes",
+    "subject": "AI",
+    "size": "469.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "LECT 5.ppt",
+    "path": "pdf/Notes/AI/UNIT-2/LECT 5.ppt",
+    "category": "notes",
+    "subject": "AI",
+    "size": "501 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "LECT 6.ppt",
+    "path": "pdf/Notes/AI/UNIT-2/LECT 6.ppt",
+    "category": "notes",
+    "subject": "AI",
+    "size": "1.7 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "LECT 7.ppt",
+    "path": "pdf/Notes/AI/UNIT-2/LECT 7.ppt",
+    "category": "notes",
+    "subject": "AI",
+    "size": "1.4 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "WhatsApp Image 2025-02-14 at 16.45.38_0d299ddd.jpg",
+    "path": "pdf/Notes/AI/WhatsApp Image 2025-02-14 at 16.45.38_0d299ddd.jpg",
+    "category": "notes",
+    "subject": "AI",
+    "size": "136.7 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "WhatsApp Image 2025-02-14 at 16.45.38_c7942996.jpg",
+    "path": "pdf/Notes/AI/WhatsApp Image 2025-02-14 at 16.45.38_c7942996.jpg",
+    "category": "notes",
+    "subject": "AI",
+    "size": "136.7 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "WhatsApp Image 2025-02-20 at 19.04.08_09a382dd.jpg",
+    "path": "pdf/Notes/AI/WhatsApp Image 2025-02-20 at 19.04.08_09a382dd.jpg",
+    "category": "notes",
+    "subject": "AI",
+    "size": "72 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "WhatsApp Image 2025-02-20 at 19.04.08_0be3349d.jpg",
+    "path": "pdf/Notes/AI/WhatsApp Image 2025-02-20 at 19.04.08_0be3349d.jpg",
+    "category": "notes",
+    "subject": "AI",
+    "size": "104.8 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "WhatsApp Image 2025-02-20 at 19.04.08_44b49222.jpg",
+    "path": "pdf/Notes/AI/WhatsApp Image 2025-02-20 at 19.04.08_44b49222.jpg",
+    "category": "notes",
+    "subject": "AI",
+    "size": "62.4 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "WhatsApp Image 2025-02-20 at 19.04.08_f864c3e4.jpg",
+    "path": "pdf/Notes/AI/WhatsApp Image 2025-02-20 at 19.04.08_f864c3e4.jpg",
+    "category": "notes",
+    "subject": "AI",
+    "size": "123.2 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "Cassandra.txt",
+    "path": "pdf/Notes/BigData/Cassandra.txt",
+    "category": "notes",
+    "subject": "BigData",
+    "size": "87 Bytes",
+    "type": "txt"
+  },
+  {
+    "name": "Hadoop.txt",
+    "path": "pdf/Notes/BigData/Hadoop.txt",
+    "category": "notes",
+    "subject": "BigData",
+    "size": "1.9 KB",
+    "type": "txt"
+  },
+  {
+    "name": "Hbase.txt",
+    "path": "pdf/Notes/BigData/Hbase.txt",
+    "category": "notes",
+    "subject": "BigData",
+    "size": "582 Bytes",
+    "type": "txt"
+  },
+  {
+    "name": "Hive.txt",
+    "path": "pdf/Notes/BigData/Hive.txt",
+    "category": "notes",
+    "subject": "BigData",
+    "size": "1 KB",
+    "type": "txt"
+  },
+  {
+    "name": "set A odd.txt",
+    "path": "pdf/Notes/BigData/set A odd.txt",
+    "category": "notes",
+    "subject": "BigData",
+    "size": "644 Bytes",
+    "type": "txt"
+  },
+  {
+    "name": "1.pdf",
+    "path": "pdf/Notes/CHE110/1.pdf",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "2.4 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "10.Pollution21.pptx",
+    "path": "pdf/Notes/CHE110/10.Pollution21.pptx",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "1.1 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "11.EnvironmentalActs 1.pptx",
+    "path": "pdf/Notes/CHE110/11.EnvironmentalActs 1.pptx",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "7.7 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "12.u611.pptx",
+    "path": "pdf/Notes/CHE110/12.u611.pptx",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "3.1 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "13.u621.pptx",
+    "path": "pdf/Notes/CHE110/13.u621.pptx",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "1.4 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "14.U63 1.pptx",
+    "path": "pdf/Notes/CHE110/14.U63 1.pptx",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "3.3 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "2.pdf",
+    "path": "pdf/Notes/CHE110/2.pdf",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "2 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "3 land resources.pdf",
+    "path": "pdf/Notes/CHE110/3 land resources.pdf",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "2.2 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "3.Land RESOURCES.ppt",
+    "path": "pdf/Notes/CHE110/3.Land RESOURCES.ppt",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "4.7 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "4.WATER RESOURCE.ppt",
+    "path": "pdf/Notes/CHE110/4.WATER RESOURCE.ppt",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "1.7 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "6.ECOLOGY1.pdf",
+    "path": "pdf/Notes/CHE110/6.ECOLOGY1.pdf",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "1.9 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "7.ECOLOGY2.pdf",
+    "path": "pdf/Notes/CHE110/7.ECOLOGY2.pdf",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "2.6 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "733348433.932309.gif",
+    "path": "pdf/Notes/CHE110/733348433.932309.gif",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "1.2 MB",
+    "type": "gif"
+  },
+  {
+    "name": "8.BIODIVERSITY Full  Copy.ppt",
+    "path": "pdf/Notes/CHE110/8.BIODIVERSITY Full  Copy.ppt",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "12.3 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "8.BIODIVERSITY Full.ppt",
+    "path": "pdf/Notes/CHE110/8.BIODIVERSITY Full.ppt",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "12.3 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "9.Pollution11.pptx",
+    "path": "pdf/Notes/CHE110/9.Pollution11.pptx",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "2.1 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "CHE110Zero.pdf",
+    "path": "pdf/Notes/CHE110/CHE110Zero.pdf",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "5.8 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "CommunityServicesGuidelines3.pdf",
+    "path": "pdf/Notes/CHE110/CommunityServicesGuidelines3.pdf",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "438.2 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "forest energy  Copy.pdf",
+    "path": "pdf/Notes/CHE110/forest energy  Copy.pdf",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "2.7 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "forest energy.pdf",
+    "path": "pdf/Notes/CHE110/forest energy.pdf",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "2.7 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "land resources.pdf",
+    "path": "pdf/Notes/CHE110/land resources.pdf",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "2.2 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "natural resources and conservation 2 lect.pdf",
+    "path": "pdf/Notes/CHE110/natural resources and conservation 2 lect.pdf",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "20.9 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "OER_CHE11020_01_2024_06_29_22_9318094171.docx",
+    "path": "pdf/Notes/CHE110/OER_CHE11020_01_2024_06_29_22_9318094171.docx",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "32.2 KB",
+    "type": "docx"
+  },
+  {
+    "name": "WATER RESOURCE.pdf",
+    "path": "pdf/Notes/CHE110/WATER RESOURCE.pdf",
+    "category": "notes",
+    "subject": "CHE110",
+    "size": "1.4 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "CA Topics.jpg",
+    "path": "pdf/Notes/CSE 211 COD/CA Topics.jpg",
+    "category": "notes",
+    "subject": "CSE 211 COD",
+    "size": "103.6 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "Course1_Module1.pptx",
+    "path": "pdf/Notes/CSE 211 COD/Course1_Module1.pptx",
+    "category": "notes",
+    "subject": "CSE 211 COD",
+    "size": "26.2 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "Course1_Module2.pptx",
+    "path": "pdf/Notes/CSE 211 COD/Course1_Module2.pptx",
+    "category": "notes",
+    "subject": "CSE 211 COD",
+    "size": "8.1 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "Course1_Module3.pptx",
+    "path": "pdf/Notes/CSE 211 COD/Course1_Module3.pptx",
+    "category": "notes",
+    "subject": "CSE 211 COD",
+    "size": "16.7 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "CA_Wise_Syllabus.pdf",
+    "path": "pdf/Notes/CSE 306 NEtworking/CA_Wise_Syllabus.pdf",
+    "category": "notes",
+    "subject": "CSE 306 NEtworking",
+    "size": "12.6 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "CSE 306 ETE PYQ.pdf",
+    "path": "pdf/Notes/CSE 306 NEtworking/CSE 306 ETE PYQ.pdf",
+    "category": "notes",
+    "subject": "CSE 306 NEtworking",
+    "size": "307.5 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "CSE306 IP updated.pdf",
+    "path": "pdf/Notes/CSE 306 NEtworking/CSE306 IP updated.pdf",
+    "category": "notes",
+    "subject": "CSE 306 NEtworking",
+    "size": "833.6 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "CA1.pkt",
+    "path": "pdf/Notes/CSE 307 Networking Lab/CA1.pkt",
+    "category": "notes",
+    "subject": "CSE 307 Networking Lab",
+    "size": "60.2 KB",
+    "type": "pkt"
+  },
+  {
+    "name": "DHCP.DNS servr.pkt",
+    "path": "pdf/Notes/CSE 307 Networking Lab/DHCP.DNS servr.pkt",
+    "category": "notes",
+    "subject": "CSE 307 Networking Lab",
+    "size": "73.6 KB",
+    "type": "pkt"
+  },
+  {
+    "name": "HTTP.DNS sever.pkt",
+    "path": "pdf/Notes/CSE 307 Networking Lab/HTTP.DNS sever.pkt",
+    "category": "notes",
+    "subject": "CSE 307 Networking Lab",
+    "size": "59.4 KB",
+    "type": "pkt"
+  },
+  {
+    "name": "ipv6.pkt",
+    "path": "pdf/Notes/CSE 307 Networking Lab/ipv6.pkt",
+    "category": "notes",
+    "subject": "CSE 307 Networking Lab",
+    "size": "46.1 KB",
+    "type": "pkt"
+  },
+  {
+    "name": "router config.pkt",
+    "path": "pdf/Notes/CSE 307 Networking Lab/router config.pkt",
+    "category": "notes",
+    "subject": "CSE 307 Networking Lab",
+    "size": "58 KB",
+    "type": "pkt"
+  },
+  {
+    "name": "subnetting FLSM.pkt",
+    "path": "pdf/Notes/CSE 307 Networking Lab/subnetting FLSM.pkt",
+    "category": "notes",
+    "subject": "CSE 307 Networking Lab",
+    "size": "51.7 KB",
+    "type": "pkt"
+  },
+  {
+    "name": "subnetting VLSM.pkt",
+    "path": "pdf/Notes/CSE 307 Networking Lab/subnetting VLSM.pkt",
+    "category": "notes",
+    "subject": "CSE 307 Networking Lab",
+    "size": "52.1 KB",
+    "type": "pkt"
+  },
+  {
+    "name": "Cohorts in B.Tech unit 4.pptx",
+    "path": "pdf/Notes/Cse111/Cohorts in B.Tech unit 4.pptx",
+    "category": "notes",
+    "subject": "Cse111",
+    "size": "10.2 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "Unit 2.pptx",
+    "path": "pdf/Notes/Cse111/Unit 2.pptx",
+    "category": "notes",
+    "subject": "Cse111",
+    "size": "2.3 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "Unit 3.pptx",
+    "path": "pdf/Notes/Cse111/Unit 3.pptx",
+    "category": "notes",
+    "subject": "Cse111",
+    "size": "2.5 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "Unit1 Part1.ppt",
+    "path": "pdf/Notes/Cse111/Unit1 Part1.ppt",
+    "category": "notes",
+    "subject": "Cse111",
+    "size": "1.8 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "Unit1 Part2.ppt",
+    "path": "pdf/Notes/Cse111/Unit1 Part2.ppt",
+    "category": "notes",
+    "subject": "Cse111",
+    "size": "2.3 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "Unit5 Part 2.ppt",
+    "path": "pdf/Notes/Cse111/Unit5 Part 2.ppt",
+    "category": "notes",
+    "subject": "Cse111",
+    "size": "3 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "Unit6 Part 1.ppt",
+    "path": "pdf/Notes/Cse111/Unit6 Part 1.ppt",
+    "category": "notes",
+    "subject": "Cse111",
+    "size": "2.8 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "Unit6 Part 2.ppt",
+    "path": "pdf/Notes/Cse111/Unit6 Part 2.ppt",
+    "category": "notes",
+    "subject": "Cse111",
+    "size": "1.1 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "zero lecture_CSE111.pptx",
+    "path": "pdf/Notes/Cse111/zero lecture_CSE111.pptx",
+    "category": "notes",
+    "subject": "Cse111",
+    "size": "1.2 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "16.Agile 1.ppt",
+    "path": "pdf/Notes/CSE320/16.Agile 1.ppt",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "1.1 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "17.ScrumUpdated.ppt",
+    "path": "pdf/Notes/CSE320/17.ScrumUpdated.ppt",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "551.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "Blackbox ai1.docx",
+    "path": "pdf/Notes/CSE320/Blackbox ai1.docx",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "268.8 KB",
+    "type": "docx"
+  },
+  {
+    "name": "case tools 2023 Unit 6.pdf",
+    "path": "pdf/Notes/CSE320/case tools 2023 Unit 6.pdf",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "800.2 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "chapter 1.pdf",
+    "path": "pdf/Notes/CSE320/chapter 1.pdf",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "782.3 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "chapter 2.pdf",
+    "path": "pdf/Notes/CSE320/chapter 2.pdf",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "669.1 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "chapter 4 SRS.pdf",
+    "path": "pdf/Notes/CSE320/chapter 4 SRS.pdf",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "627.5 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "chapter 5 cohesion coupling.pdf",
+    "path": "pdf/Notes/CSE320/chapter 5 cohesion coupling.pdf",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "963.2 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "cpm.pdf",
+    "path": "pdf/Notes/CSE320/cpm.pdf",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "993.5 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "dfd.pdf",
+    "path": "pdf/Notes/CSE320/dfd.pdf",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "753.6 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "LectureZeroCSE320.pptx",
+    "path": "pdf/Notes/CSE320/LectureZeroCSE320.pptx",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "5 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "Maintenance.pdf",
+    "path": "pdf/Notes/CSE320/Maintenance.pdf",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "261.9 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "PERT UNIT 5 CSE320.ppt",
+    "path": "pdf/Notes/CSE320/PERT UNIT 5 CSE320.ppt",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "923.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "SDLC MODELS.pdf",
+    "path": "pdf/Notes/CSE320/SDLC MODELS.pdf",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "1.1 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "selenium new cse320 unit 4.pptx",
+    "path": "pdf/Notes/CSE320/selenium new cse320 unit 4.pptx",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "260.2 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "Software project Management 1.pdf",
+    "path": "pdf/Notes/CSE320/Software project Management 1.pdf",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "1.7 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "SPM unit 5.pdf",
+    "path": "pdf/Notes/CSE320/SPM unit 5.pdf",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "2.5 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "test levels.pdf",
+    "path": "pdf/Notes/CSE320/test levels.pdf",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "522.3 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Testing.pdf",
+    "path": "pdf/Notes/CSE320/Testing.pdf",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "1.2 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "unit 1 SRS.pdf",
+    "path": "pdf/Notes/CSE320/unit 1 SRS.pdf",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "1.1 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "unit 3 part 2.pdf",
+    "path": "pdf/Notes/CSE320/unit 3 part 2.pdf",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "723.2 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "UNIT 3 UML DIAGRAMS.pdf",
+    "path": "pdf/Notes/CSE320/UNIT 3 UML DIAGRAMS.pdf",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "1.2 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "unit 6 advanced topics.pdf",
+    "path": "pdf/Notes/CSE320/unit 6 advanced topics.pdf",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "878.1 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "UNIT 6.pdf",
+    "path": "pdf/Notes/CSE320/UNIT 6.pdf",
+    "category": "notes",
+    "subject": "CSE320",
+    "size": "1.5 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "frmCourseSyllabusIPDownload (1).pdf",
+    "path": "pdf/Notes/CSE322 AutoMata/frmCourseSyllabusIPDownload (1).pdf",
+    "category": "notes",
+    "subject": "CSE322 AutoMata",
+    "size": "147.8 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Lecture 11_Regular Expression to FA.ppt",
+    "path": "pdf/Notes/CSE322 AutoMata/Lecture 11_Regular Expression to FA.ppt",
+    "category": "notes",
+    "subject": "CSE322 AutoMata",
+    "size": "244.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "Lecture 12_Grammar.ppt",
+    "path": "pdf/Notes/CSE322 AutoMata/Lecture 12_Grammar.ppt",
+    "category": "notes",
+    "subject": "CSE322 AutoMata",
+    "size": "207.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "lecture 13 Chomskey.ppt",
+    "path": "pdf/Notes/CSE322 AutoMata/lecture 13 Chomskey.ppt",
+    "category": "notes",
+    "subject": "CSE322 AutoMata",
+    "size": "910.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "Lecture 14 Regular grammar to Regular Expresssion - Copy.ppt",
+    "path": "pdf/Notes/CSE322 AutoMata/Lecture 14 Regular grammar to Regular Expresssion - Copy.ppt",
+    "category": "notes",
+    "subject": "CSE322 AutoMata",
+    "size": "245.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "Lecture 3.ppt",
+    "path": "pdf/Notes/CSE322 AutoMata/Lecture 3.ppt",
+    "category": "notes",
+    "subject": "CSE322 AutoMata",
+    "size": "515 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "Lecture 5 Regular language and Expression.ppt",
+    "path": "pdf/Notes/CSE322 AutoMata/Lecture 5 Regular language and Expression.ppt",
+    "category": "notes",
+    "subject": "CSE322 AutoMata",
+    "size": "268.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "lecture 6_Pummping.ppt",
+    "path": "pdf/Notes/CSE322 AutoMata/lecture 6_Pummping.ppt",
+    "category": "notes",
+    "subject": "CSE322 AutoMata",
+    "size": "191 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "Lecture 7_Arden.ppt",
+    "path": "pdf/Notes/CSE322 AutoMata/Lecture 7_Arden.ppt",
+    "category": "notes",
+    "subject": "CSE322 AutoMata",
+    "size": "235 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "Lecture 9_Myhill-Nerode Theorem.ppt",
+    "path": "pdf/Notes/CSE322 AutoMata/Lecture 9_Myhill-Nerode Theorem.ppt",
+    "category": "notes",
+    "subject": "CSE322 AutoMata",
+    "size": "1.4 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "Lecture Notes-1.pptx",
+    "path": "pdf/Notes/CSE322 AutoMata/Lecture Notes-1.pptx",
+    "category": "notes",
+    "subject": "CSE322 AutoMata",
+    "size": "488.9 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "Lecture Notes-2.pptx",
+    "path": "pdf/Notes/CSE322 AutoMata/Lecture Notes-2.pptx",
+    "category": "notes",
+    "subject": "CSE322 AutoMata",
+    "size": "1.6 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "Lecture_CFG.ppt",
+    "path": "pdf/Notes/CSE322 AutoMata/Lecture_CFG.ppt",
+    "category": "notes",
+    "subject": "CSE322 AutoMata",
+    "size": "452.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "PDA.ppt",
+    "path": "pdf/Notes/CSE322 AutoMata/PDA.ppt",
+    "category": "notes",
+    "subject": "CSE322 AutoMata",
+    "size": "1.4 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "some practice que.pdf",
+    "path": "pdf/Notes/CSE322 AutoMata/some practice que.pdf",
+    "category": "notes",
+    "subject": "CSE322 AutoMata",
+    "size": "1.8 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "TM.ppt",
+    "path": "pdf/Notes/CSE322 AutoMata/TM.ppt",
+    "category": "notes",
+    "subject": "CSE322 AutoMata",
+    "size": "3.8 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "CSE326 Lec1.pptx",
+    "path": "pdf/Notes/CSE326/CSE326 Lec1.pptx",
+    "category": "notes",
+    "subject": "CSE326",
+    "size": "83.3 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE326 Lec10.pptx",
+    "path": "pdf/Notes/CSE326/CSE326 Lec10.pptx",
+    "category": "notes",
+    "subject": "CSE326",
+    "size": "100.4 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE326 Lec11 Part1.pptx",
+    "path": "pdf/Notes/CSE326/CSE326 Lec11 Part1.pptx",
+    "category": "notes",
+    "subject": "CSE326",
+    "size": "256.7 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE326 Lec11 Part2.pptx",
+    "path": "pdf/Notes/CSE326/CSE326 Lec11 Part2.pptx",
+    "category": "notes",
+    "subject": "CSE326",
+    "size": "85.5 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE326 Lec11 Part3.pptx",
+    "path": "pdf/Notes/CSE326/CSE326 Lec11 Part3.pptx",
+    "category": "notes",
+    "subject": "CSE326",
+    "size": "64.3 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE326 Lec11 Part4.pptx",
+    "path": "pdf/Notes/CSE326/CSE326 Lec11 Part4.pptx",
+    "category": "notes",
+    "subject": "CSE326",
+    "size": "69.4 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE326 Lec12.pptx",
+    "path": "pdf/Notes/CSE326/CSE326 Lec12.pptx",
+    "category": "notes",
+    "subject": "CSE326",
+    "size": "95.2 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE326 Lec13.pptx",
+    "path": "pdf/Notes/CSE326/CSE326 Lec13.pptx",
+    "category": "notes",
+    "subject": "CSE326",
+    "size": "2.4 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE326 Lec14.pptx",
+    "path": "pdf/Notes/CSE326/CSE326 Lec14.pptx",
+    "category": "notes",
+    "subject": "CSE326",
+    "size": "68.2 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE326 Lec2.pptx",
+    "path": "pdf/Notes/CSE326/CSE326 Lec2.pptx",
+    "category": "notes",
+    "subject": "CSE326",
+    "size": "95.5 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE326 Lec3.pptx",
+    "path": "pdf/Notes/CSE326/CSE326 Lec3.pptx",
+    "category": "notes",
+    "subject": "CSE326",
+    "size": "147.6 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE326 Lec4.pptx",
+    "path": "pdf/Notes/CSE326/CSE326 Lec4.pptx",
+    "category": "notes",
+    "subject": "CSE326",
+    "size": "154.1 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE326 Lec5.pptx",
+    "path": "pdf/Notes/CSE326/CSE326 Lec5.pptx",
+    "category": "notes",
+    "subject": "CSE326",
+    "size": "178.9 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE326 Lec6.pptx",
+    "path": "pdf/Notes/CSE326/CSE326 Lec6.pptx",
+    "category": "notes",
+    "subject": "CSE326",
+    "size": "153.2 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE326 Lec7.pptx",
+    "path": "pdf/Notes/CSE326/CSE326 Lec7.pptx",
+    "category": "notes",
+    "subject": "CSE326",
+    "size": "85.8 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE326 Lec8.pptx",
+    "path": "pdf/Notes/CSE326/CSE326 Lec8.pptx",
+    "category": "notes",
+    "subject": "CSE326",
+    "size": "270.5 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE326 Lec9.pptx",
+    "path": "pdf/Notes/CSE326/CSE326 Lec9.pptx",
+    "category": "notes",
+    "subject": "CSE326",
+    "size": "106.5 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "find_remove_map_filter methods.pptx",
+    "path": "pdf/Notes/CSE326/find_remove_map_filter methods.pptx",
+    "category": "notes",
+    "subject": "CSE326",
+    "size": "254.8 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 IPR.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 IPR.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "6.6 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 0.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 0.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "2.2 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 11 (1).pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 11 (1).pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "109.4 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 12.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 12.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "115.5 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 13.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 13.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "8.2 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 14.ppt",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 14.ppt",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "222.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "CSE332 Lecture 15 1.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 15 1.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "120.1 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 15.pdf",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 15.pdf",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "527.5 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "CSE332 Lecture 16.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 16.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "75.1 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 17.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 17.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "543.4 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 18.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 18.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "92.8 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 19.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 19.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "209.9 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 2.pdf",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 2.pdf",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "430 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "CSE332 Lecture 20.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 20.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "126.8 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 21.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 21.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "97 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 22.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 22.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "83.4 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 23.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 23.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "2.2 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 3.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 3.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "478.4 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 4_updated.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 4_updated.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "2 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 5.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 5.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "6.6 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 6.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 6.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "338.4 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 7 [Autosaved].pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 7 [Autosaved].pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "259.6 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 8.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 8.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "276.3 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332 Lecture 9-10 (1).pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332 Lecture 9-10 (1).pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "105.1 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332_Unit3_Startup_Schemes1.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332_Unit3_Startup_Schemes1.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "96.6 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332_Unit4_Startup_in_IT.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332_Unit4_Startup_in_IT.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "138.4 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "CSE332_Unit5_Companies_IT_Industry.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/CSE332_Unit5_Companies_IT_Industry.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "111.6 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "Unit_VI_Ethical_Professional_Issues_InfoSec.pptx",
+    "path": "pdf/Notes/CSE332 Eathics/Unit_VI_Ethical_Professional_Issues_InfoSec.pptx",
+    "category": "notes",
+    "subject": "CSE332 Eathics",
+    "size": "86.2 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "Algo. Complexity.pdf",
+    "path": "pdf/Notes/DAA/Algo. Complexity.pdf",
+    "category": "notes",
+    "subject": "DAA",
+    "size": "329 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Asymptotic notation.pdf",
+    "path": "pdf/Notes/DAA/Asymptotic notation.pdf",
+    "category": "notes",
+    "subject": "DAA",
+    "size": "1.2 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Basic DS.pdf",
+    "path": "pdf/Notes/DAA/Basic DS.pdf",
+    "category": "notes",
+    "subject": "DAA",
+    "size": "348.9 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Intro.pdf",
+    "path": "pdf/Notes/DAA/Intro.pdf",
+    "category": "notes",
+    "subject": "DAA",
+    "size": "1.4 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Lec05  Graphs  info 2410  Part 1  PPT.pdf",
+    "path": "pdf/Notes/DAA/Lec05  Graphs  info 2410  Part 1  PPT.pdf",
+    "category": "notes",
+    "subject": "DAA",
+    "size": "449 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "lecture 1(Fundamental of algorithms).pdf",
+    "path": "pdf/Notes/DAA/lecture 1(Fundamental of algorithms).pdf",
+    "category": "notes",
+    "subject": "DAA",
+    "size": "416.3 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "lecture 2(Basic DS).pdf",
+    "path": "pdf/Notes/DAA/lecture 2(Basic DS).pdf",
+    "category": "notes",
+    "subject": "DAA",
+    "size": "326.5 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Lecture 5-6(String matching).pdf",
+    "path": "pdf/Notes/DAA/Lecture 5-6(String matching).pdf",
+    "category": "notes",
+    "subject": "DAA",
+    "size": "3.1 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "lecture 7_8(Brute force).pdf",
+    "path": "pdf/Notes/DAA/lecture 7_8(Brute force).pdf",
+    "category": "notes",
+    "subject": "DAA",
+    "size": "851.5 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "lecture3(Mesuring input).pdf",
+    "path": "pdf/Notes/DAA/lecture3(Mesuring input).pdf",
+    "category": "notes",
+    "subject": "DAA",
+    "size": "366.4 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "lecture4(Asymptotic notations).pdf",
+    "path": "pdf/Notes/DAA/lecture4(Asymptotic notations).pdf",
+    "category": "notes",
+    "subject": "DAA",
+    "size": "643.3 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Mesuring input.pdf",
+    "path": "pdf/Notes/DAA/Mesuring input.pdf",
+    "category": "notes",
+    "subject": "DAA",
+    "size": "282.9 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "unit2lecture6.pdf",
+    "path": "pdf/Notes/DAA/unit2lecture6.pdf",
+    "category": "notes",
+    "subject": "DAA",
+    "size": "1.9 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "BJT.pdf",
+    "path": "pdf/Notes/ECE249/BJT.pdf",
+    "category": "notes",
+    "subject": "ECE249",
+    "size": "765.5 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "CMOS.pdf",
+    "path": "pdf/Notes/ECE249/CMOS.pdf",
+    "category": "notes",
+    "subject": "ECE249",
+    "size": "141.8 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Digital design_Morris Mano_5th edition.pdf",
+    "path": "pdf/Notes/ECE249/Digital design_Morris Mano_5th edition.pdf",
+    "category": "notes",
+    "subject": "ECE249",
+    "size": "3 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "ECE249_Syllabus.pdf",
+    "path": "pdf/Notes/ECE249/ECE249_Syllabus.pdf",
+    "category": "notes",
+    "subject": "ECE249",
+    "size": "86.3 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Fundementals of Electric Circuits by Alexander and Sadiku.pdf",
+    "path": "pdf/Notes/ECE249/Fundementals of Electric Circuits by Alexander and Sadiku.pdf",
+    "category": "notes",
+    "subject": "ECE249",
+    "size": "15.2 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Lecture12_12284_Lecture zero ECE249.pptx",
+    "path": "pdf/Notes/ECE249/Lecture12_12284_Lecture zero ECE249.pptx",
+    "category": "notes",
+    "subject": "ECE249",
+    "size": "3.3 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "Logic Gate and KMap.pdf",
+    "path": "pdf/Notes/ECE249/Logic Gate and KMap.pdf",
+    "category": "notes",
+    "subject": "ECE249",
+    "size": "1.1 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "MOSFET.pdf",
+    "path": "pdf/Notes/ECE249/MOSFET.pdf",
+    "category": "notes",
+    "subject": "ECE249",
+    "size": "912.7 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Number System.pdf",
+    "path": "pdf/Notes/ECE249/Number System.pdf",
+    "category": "notes",
+    "subject": "ECE249",
+    "size": "1.1 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "OPAmp.pdf",
+    "path": "pdf/Notes/ECE249/OPAmp.pdf",
+    "category": "notes",
+    "subject": "ECE249",
+    "size": "376.6 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "1. IR sensor details and code.pdf",
+    "path": "pdf/Notes/ECE279/1. IR sensor details and code.pdf",
+    "category": "notes",
+    "subject": "ECE279",
+    "size": "938.5 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "2. IR sensor code.pdf",
+    "path": "pdf/Notes/ECE279/2. IR sensor code.pdf",
+    "category": "notes",
+    "subject": "ECE279",
+    "size": "115.2 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "3. IR sensors solutions.pdf",
+    "path": "pdf/Notes/ECE279/3. IR sensors solutions.pdf",
+    "category": "notes",
+    "subject": "ECE279",
+    "size": "77.1 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Big Data Unit 1_PPT1.pptx",
+    "path": "pdf/Notes/INT312/Big Data Unit 1_PPT1.pptx",
+    "category": "notes",
+    "subject": "INT312",
+    "size": "514.7 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "Big Data Unit 1_PPT2.pptx",
+    "path": "pdf/Notes/INT312/Big Data Unit 1_PPT2.pptx",
+    "category": "notes",
+    "subject": "INT312",
+    "size": "1 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "Big Data Unit 3_PPT1.pptx",
+    "path": "pdf/Notes/INT312/Big Data Unit 3_PPT1.pptx",
+    "category": "notes",
+    "subject": "INT312",
+    "size": "81.7 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "Big Data Unit 3_PPT2.pptx",
+    "path": "pdf/Notes/INT312/Big Data Unit 3_PPT2.pptx",
+    "category": "notes",
+    "subject": "INT312",
+    "size": "369.2 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "Big Data Unit 4_PPT1.pptx",
+    "path": "pdf/Notes/INT312/Big Data Unit 4_PPT1.pptx",
+    "category": "notes",
+    "subject": "INT312",
+    "size": "84.3 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "Big Data Unit 4_PPT2.pptx",
+    "path": "pdf/Notes/INT312/Big Data Unit 4_PPT2.pptx",
+    "category": "notes",
+    "subject": "INT312",
+    "size": "85 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "cassandra commands.docx",
+    "path": "pdf/Notes/INT312/cassandra commands.docx",
+    "category": "notes",
+    "subject": "INT312",
+    "size": "19.3 KB",
+    "type": "docx"
+  },
+  {
+    "name": "hadoop_commands.txt",
+    "path": "pdf/Notes/INT312/hadoop_commands.txt",
+    "category": "notes",
+    "subject": "INT312",
+    "size": "6.1 KB",
+    "type": "txt"
+  },
+  {
+    "name": "hbase commands.docx",
+    "path": "pdf/Notes/INT312/hbase commands.docx",
+    "category": "notes",
+    "subject": "INT312",
+    "size": "15.6 KB",
+    "type": "docx"
+  },
+  {
+    "name": "hbase.pptx",
+    "path": "pdf/Notes/INT312/hbase.pptx",
+    "category": "notes",
+    "subject": "INT312",
+    "size": "121.7 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "INT312 Unit 2_PPT1.pptx",
+    "path": "pdf/Notes/INT312/INT312 Unit 2_PPT1.pptx",
+    "category": "notes",
+    "subject": "INT312",
+    "size": "5 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "INT312 Unit 2_PPT2.pptx",
+    "path": "pdf/Notes/INT312/INT312 Unit 2_PPT2.pptx",
+    "category": "notes",
+    "subject": "INT312",
+    "size": "220.1 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "1745900113490.jpeg",
+    "path": "pdf/Notes/Java/1745900113490.jpeg",
+    "category": "notes",
+    "subject": "Java",
+    "size": "118.8 KB",
+    "type": "jpeg"
+  },
+  {
+    "name": "WhatsApp Image 2025-04-22 at 1.06.01 PM.jpeg",
+    "path": "pdf/Notes/Java/WhatsApp Image 2025-04-22 at 1.06.01 PM.jpeg",
+    "category": "notes",
+    "subject": "Java",
+    "size": "458.5 KB",
+    "type": "jpeg"
+  },
+  {
+    "name": "WhatsApp Image 2025-04-22 at 1.06.02 PM.jpeg",
+    "path": "pdf/Notes/Java/WhatsApp Image 2025-04-22 at 1.06.02 PM.jpeg",
+    "category": "notes",
+    "subject": "Java",
+    "size": "451.1 KB",
+    "type": "jpeg"
+  },
+  {
+    "name": "WhatsApp Image 2025-04-22 at 1.06.03 PM.jpeg",
+    "path": "pdf/Notes/Java/WhatsApp Image 2025-04-22 at 1.06.03 PM.jpeg",
+    "category": "notes",
+    "subject": "Java",
+    "size": "385.6 KB",
+    "type": "jpeg"
+  },
+  {
+    "name": "1.ppt",
+    "path": "pdf/Notes/MEC136/1.ppt",
+    "category": "notes",
+    "subject": "MEC136",
+    "size": "661 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "4 Letter writing.ppt",
+    "path": "pdf/Notes/MEC136/4 Letter writing.ppt",
+    "category": "notes",
+    "subject": "MEC136",
+    "size": "1.4 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "5 image letters (1).pdf",
+    "path": "pdf/Notes/MEC136/5 image letters (1).pdf",
+    "category": "notes",
+    "subject": "MEC136",
+    "size": "140 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "6 Dimensioning.ppt",
+    "path": "pdf/Notes/MEC136/6 Dimensioning.ppt",
+    "category": "notes",
+    "subject": "MEC136",
+    "size": "959.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "7 Instruments.ppt",
+    "path": "pdf/Notes/MEC136/7 Instruments.ppt",
+    "category": "notes",
+    "subject": "MEC136",
+    "size": "916.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "8 Scales.ppt",
+    "path": "pdf/Notes/MEC136/8 Scales.ppt",
+    "category": "notes",
+    "subject": "MEC136",
+    "size": "1.4 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "MEC136Rapid protoyping.pptx",
+    "path": "pdf/Notes/MEC136/MEC136Rapid protoyping.pptx",
+    "category": "notes",
+    "subject": "MEC136",
+    "size": "3.9 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "Projections of Line.ppt",
+    "path": "pdf/Notes/MEC136/Projections of Line.ppt",
+    "category": "notes",
+    "subject": "MEC136",
+    "size": "538 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "Projections of Point.ppt",
+    "path": "pdf/Notes/MEC136/Projections of Point.ppt",
+    "category": "notes",
+    "subject": "MEC136",
+    "size": "1.5 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "Unit 4 Development of Surfaces.ppt",
+    "path": "pdf/Notes/MEC136/Unit 4 Development of Surfaces.ppt",
+    "category": "notes",
+    "subject": "MEC136",
+    "size": "16.8 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "Unit 4 Isometric Projection.pptx",
+    "path": "pdf/Notes/MEC136/Unit 4 Isometric Projection.pptx",
+    "category": "notes",
+    "subject": "MEC136",
+    "size": "20.6 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "unit 5 digital fabrication.pptx",
+    "path": "pdf/Notes/MEC136/unit 5 digital fabrication.pptx",
+    "category": "notes",
+    "subject": "MEC136",
+    "size": "1.3 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "Unit 5 notes.docx",
+    "path": "pdf/Notes/MEC136/Unit 5 notes.docx",
+    "category": "notes",
+    "subject": "MEC136",
+    "size": "356.6 KB",
+    "type": "docx"
+  },
+  {
+    "name": "Unit 5 Notes.pdf",
+    "path": "pdf/Notes/MEC136/Unit 5 Notes.pdf",
+    "category": "notes",
+    "subject": "MEC136",
+    "size": "14.1 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Unit 5 Notes1.pdf",
+    "path": "pdf/Notes/MEC136/Unit 5 Notes1.pdf",
+    "category": "notes",
+    "subject": "MEC136",
+    "size": "4 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Unit 6 Rapid prototyiping and systems with updations.pptx",
+    "path": "pdf/Notes/MEC136/Unit 6 Rapid prototyiping and systems with updations.pptx",
+    "category": "notes",
+    "subject": "MEC136",
+    "size": "12 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "Unit6 Notes.pdf",
+    "path": "pdf/Notes/MEC136/Unit6 Notes.pdf",
+    "category": "notes",
+    "subject": "MEC136",
+    "size": "8.9 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Activity 2 (1).xlsx",
+    "path": "pdf/Notes/MTH 302/Activity 2 (1).xlsx",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "14.4 KB",
+    "type": "xlsx"
+  },
+  {
+    "name": "Activity 2_Assignment.xlsx",
+    "path": "pdf/Notes/MTH 302/Activity 2_Assignment.xlsx",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "9.2 KB",
+    "type": "xlsx"
+  },
+  {
+    "name": "Activity1_class.xlsx",
+    "path": "pdf/Notes/MTH 302/Activity1_class.xlsx",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "10.3 KB",
+    "type": "xlsx"
+  },
+  {
+    "name": "Continuous and Joint Part 1.pdf",
+    "path": "pdf/Notes/MTH 302/Continuous and Joint Part 1.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "5.5 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Discrete Random Variables Notes.pdf",
+    "path": "pdf/Notes/MTH 302/Discrete Random Variables Notes.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "5.8 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "MCQ Questions.pdf",
+    "path": "pdf/Notes/MTH 302/MCQ Questions.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "361.7 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Mean_ Median and Mode.pdf",
+    "path": "pdf/Notes/MTH 302/Mean_ Median and Mode.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "188.9 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Modified File of Unit1.pdf",
+    "path": "pdf/Notes/MTH 302/Modified File of Unit1.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "3.7 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "mth.pdf",
+    "path": "pdf/Notes/MTH 302/MTH 302/mth.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "46.8 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "MTH302 ETE.pdf",
+    "path": "pdf/Notes/MTH 302/MTH 302/MTH302 ETE.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "7.4 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "mth302ete.pdf",
+    "path": "pdf/Notes/MTH 302/MTH 302/mth302ete.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "17.9 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "photo_2024-12-03_04-14-00.jpg",
+    "path": "pdf/Notes/MTH 302/MTH 302/photo_2024-12-03_04-14-00.jpg",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "119.4 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "photo_2024-12-03_04-14-22.jpg",
+    "path": "pdf/Notes/MTH 302/MTH 302/photo_2024-12-03_04-14-22.jpg",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "134.4 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "photo_2024-12-03_04-14-26.jpg",
+    "path": "pdf/Notes/MTH 302/MTH 302/photo_2024-12-03_04-14-26.jpg",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "524.5 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "photo_2024-12-03_04-14-33.jpg",
+    "path": "pdf/Notes/MTH 302/MTH 302/photo_2024-12-03_04-14-33.jpg",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "552.4 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "photo_2024-12-03_04-14-37.jpg",
+    "path": "pdf/Notes/MTH 302/MTH 302/photo_2024-12-03_04-14-37.jpg",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "120.4 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "photo_2024-12-03_04-14-41.jpg",
+    "path": "pdf/Notes/MTH 302/MTH 302/photo_2024-12-03_04-14-41.jpg",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "133.2 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "scp-mth3333333009999094444444-by-sharecodepoint-1.png",
+    "path": "pdf/Notes/MTH 302/MTH 302/scp-mth3333333009999094444444-by-sharecodepoint-1.png",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "1.7 MB",
+    "type": "png"
+  },
+  {
+    "name": "scp-mth3333333009999094444444-by-sharecodepoint-2.png",
+    "path": "pdf/Notes/MTH 302/MTH 302/scp-mth3333333009999094444444-by-sharecodepoint-2.png",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "1.8 MB",
+    "type": "png"
+  },
+  {
+    "name": "scp-mth3333333009999094444444-by-sharecodepoint-3.png",
+    "path": "pdf/Notes/MTH 302/MTH 302/scp-mth3333333009999094444444-by-sharecodepoint-3.png",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "1.4 MB",
+    "type": "png"
+  },
+  {
+    "name": "NEW ZERO LECTURE  MTH 302  FINAL.pdf",
+    "path": "pdf/Notes/MTH 302/NEW ZERO LECTURE  MTH 302  FINAL.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "2.1 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "normalapproximation.xlsx",
+    "path": "pdf/Notes/MTH 302/normalapproximation.xlsx",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "34.9 KB",
+    "type": "xlsx"
+  },
+  {
+    "name": "Part 2.pdf",
+    "path": "pdf/Notes/MTH 302/Part 2.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "5.4 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "probability.docx",
+    "path": "pdf/Notes/MTH 302/probability.docx",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "20 KB",
+    "type": "docx"
+  },
+  {
+    "name": "Questions.pdf",
+    "path": "pdf/Notes/MTH 302/Questions.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "136 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Solutions and Hints of Questions Discrete and Continuous RV.pdf",
+    "path": "pdf/Notes/MTH 302/Solutions and Hints of Questions Discrete and Continuous RV.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "2 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Solutions slide no 17 and 19.pdf",
+    "path": "pdf/Notes/MTH 302/Solutions slide no 17 and 19.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "671.5 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "t-table.pdf",
+    "path": "pdf/Notes/MTH 302/t-table.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "12.4 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Unit 1 Conti. RV.pdf",
+    "path": "pdf/Notes/MTH 302/Unit 1 Conti. RV.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "337.4 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Unit 1 Discrete RV.pdf",
+    "path": "pdf/Notes/MTH 302/Unit 1 Discrete RV.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "220.7 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "UNIT 2  L1_ 2.pdf",
+    "path": "pdf/Notes/MTH 302/UNIT 2  L1_ 2.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "2.3 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Unit 4 Questions solution idea.pdf",
+    "path": "pdf/Notes/MTH 302/Unit 4 Questions solution idea.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "5.2 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Unit-6 F and Chi Square Test.pdf",
+    "path": "pdf/Notes/MTH 302/Unit-6 F and Chi Square Test.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "4.2 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Unit-6 L1 2 3.pdf",
+    "path": "pdf/Notes/MTH 302/Unit-6 L1 2 3.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "1.4 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Unit-6 T Test.pdf",
+    "path": "pdf/Notes/MTH 302/Unit-6 T Test.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "4.1 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Unit1 from Conti. Dist. Fun..pdf",
+    "path": "pdf/Notes/MTH 302/Unit1 from Conti. Dist. Fun..pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "929.7 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Unit4 L5 L6.pdf",
+    "path": "pdf/Notes/MTH 302/Unit4 L5 L6.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "992.1 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Updated Unit1.pdf",
+    "path": "pdf/Notes/MTH 302/Updated Unit1.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "2.9 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Updated Unit4 L1_ L2 and L3.pdf",
+    "path": "pdf/Notes/MTH 302/Updated Unit4 L1_ L2 and L3.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "2 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Variance.pdf",
+    "path": "pdf/Notes/MTH 302/Variance.pdf",
+    "category": "notes",
+    "subject": "MTH 302",
+    "size": "209.3 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Book (1).pdf",
+    "path": "pdf/Notes/MTH174/Book (1).pdf",
+    "category": "notes",
+    "subject": "MTH174",
+    "size": "43 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Double integral questions .pdf",
+    "path": "pdf/Notes/MTH174/Double integral questions .pdf",
+    "category": "notes",
+    "subject": "MTH174",
+    "size": "3.2 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Fourier questions.pdf",
+    "path": "pdf/Notes/MTH174/Fourier questions.pdf",
+    "category": "notes",
+    "subject": "MTH174",
+    "size": "1.1 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Lecture12_15730_Zero lecture.pptx",
+    "path": "pdf/Notes/MTH174/Lecture12_15730_Zero lecture.pptx",
+    "category": "notes",
+    "subject": "MTH174",
+    "size": "6.5 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "MCQ .pdf",
+    "path": "pdf/Notes/MTH174/MCQ .pdf",
+    "category": "notes",
+    "subject": "MTH174",
+    "size": "854.5 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "MCQ ques .pdf",
+    "path": "pdf/Notes/MTH174/MCQ ques .pdf",
+    "category": "notes",
+    "subject": "MTH174",
+    "size": "3.8 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "MTH174_UNIT1_from_book.pdf",
+    "path": "pdf/Notes/MTH174/MTH174_UNIT1_from_book.pdf",
+    "category": "notes",
+    "subject": "MTH174",
+    "size": "6.1 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Unit 2 exercise questionsBook.pdf",
+    "path": "pdf/Notes/MTH174/Unit 2 exercise questionsBook.pdf",
+    "category": "notes",
+    "subject": "MTH174",
+    "size": "9.1 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "unit 3 operator methodBook.pdf",
+    "path": "pdf/Notes/MTH174/unit 3 operator methodBook.pdf",
+    "category": "notes",
+    "subject": "MTH174",
+    "size": "7.7 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Unit3_Book.pdf",
+    "path": "pdf/Notes/MTH174/Unit3_Book.pdf",
+    "category": "notes",
+    "subject": "MTH174",
+    "size": "12.6 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Unit_5_Review_Shivani_Saini (1).pdf",
+    "path": "pdf/Notes/MTH174/Unit_5_Review_Shivani_Saini (1).pdf",
+    "category": "notes",
+    "subject": "MTH174",
+    "size": "4.5 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "1.JPG",
+    "path": "pdf/Notes/MTH401/1.JPG",
+    "category": "notes",
+    "subject": "MTH401",
+    "size": "51.2 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "12.JPG",
+    "path": "pdf/Notes/MTH401/12.JPG",
+    "category": "notes",
+    "subject": "MTH401",
+    "size": "84.3 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "1a.JPG",
+    "path": "pdf/Notes/MTH401/1a.JPG",
+    "category": "notes",
+    "subject": "MTH401",
+    "size": "68.1 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "1b.JPG",
+    "path": "pdf/Notes/MTH401/1b.JPG",
+    "category": "notes",
+    "subject": "MTH401",
+    "size": "62.4 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "1c.JPG",
+    "path": "pdf/Notes/MTH401/1c.JPG",
+    "category": "notes",
+    "subject": "MTH401",
+    "size": "58.7 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "1d.JPG",
+    "path": "pdf/Notes/MTH401/1d.JPG",
+    "category": "notes",
+    "subject": "MTH401",
+    "size": "69.9 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "2.JPG",
+    "path": "pdf/Notes/MTH401/2.JPG",
+    "category": "notes",
+    "subject": "MTH401",
+    "size": "62.7 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "3.JPG",
+    "path": "pdf/Notes/MTH401/3.JPG",
+    "category": "notes",
+    "subject": "MTH401",
+    "size": "65.3 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "4.JPG",
+    "path": "pdf/Notes/MTH401/4.JPG",
+    "category": "notes",
+    "subject": "MTH401",
+    "size": "105.8 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "6.jpg",
+    "path": "pdf/Notes/MTH401/6.jpg",
+    "category": "notes",
+    "subject": "MTH401",
+    "size": "84.2 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "Algorithms.pdf",
+    "path": "pdf/Notes/MTH401/Algorithms.pdf",
+    "category": "notes",
+    "subject": "MTH401",
+    "size": "1.5 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Discrete Book 2.pdf",
+    "path": "pdf/Notes/MTH401/Discrete Book 2.pdf",
+    "category": "notes",
+    "subject": "MTH401",
+    "size": "4.1 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "IMG_20240227_143353.jpg",
+    "path": "pdf/Notes/MTH401/IMG_20240227_143353.jpg",
+    "category": "notes",
+    "subject": "MTH401",
+    "size": "83.9 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "IMG_20240227_143418.jpg",
+    "path": "pdf/Notes/MTH401/IMG_20240227_143418.jpg",
+    "category": "notes",
+    "subject": "MTH401",
+    "size": "82.5 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "Relation 1.pdf",
+    "path": "pdf/Notes/MTH401/Relation 1.pdf",
+    "category": "notes",
+    "subject": "MTH401",
+    "size": "1.6 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Relation 2.pdf",
+    "path": "pdf/Notes/MTH401/Relation 2.pdf",
+    "category": "notes",
+    "subject": "MTH401",
+    "size": "1.1 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Relation 3.pdf",
+    "path": "pdf/Notes/MTH401/Relation 3.pdf",
+    "category": "notes",
+    "subject": "MTH401",
+    "size": "3.4 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Zero Lecture MTH401.pptx.pdf",
+    "path": "pdf/Notes/MTH401/Zero Lecture MTH401.pptx.pdf",
+    "category": "notes",
+    "subject": "MTH401",
+    "size": "1.9 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "CA_060133.docx",
+    "path": "pdf/Notes/OS/CA_060133.docx",
+    "category": "notes",
+    "subject": "OS",
+    "size": "28.8 KB",
+    "type": "docx"
+  },
+  {
+    "name": "CSE316 CA2_Guidelines for students FINAL.pdf",
+    "path": "pdf/Notes/OS/CSE316 CA2_Guidelines for students FINAL.pdf",
+    "category": "notes",
+    "subject": "OS",
+    "size": "247.1 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "File System Recovery and Optimization tool.pptx",
+    "path": "pdf/Notes/OS/File System Recovery and Optimization tool.pptx",
+    "category": "notes",
+    "subject": "OS",
+    "size": "130.6 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "OS CA-1.docx",
+    "path": "pdf/Notes/OS/OS CA-1.docx",
+    "category": "notes",
+    "subject": "OS",
+    "size": "30.9 KB",
+    "type": "docx"
+  },
+  {
+    "name": "OS unit 1 Process Management.pptx",
+    "path": "pdf/Notes/OS/OS unit 1 Process Management.pptx",
+    "category": "notes",
+    "subject": "OS",
+    "size": "699.9 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "project topics.docx",
+    "path": "pdf/Notes/OS/project topics.docx",
+    "category": "notes",
+    "subject": "OS",
+    "size": "15.4 KB",
+    "type": "docx"
+  },
+  {
+    "name": "Unit1 Introduction.pptx",
+    "path": "pdf/Notes/OS/Unit1 Introduction.pptx",
+    "category": "notes",
+    "subject": "OS",
+    "size": "2.8 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "Unit1 System_Calls.pptx",
+    "path": "pdf/Notes/OS/Unit1 System_Calls.pptx",
+    "category": "notes",
+    "subject": "OS",
+    "size": "1.3 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "Unit2 CPU Scheduling.ppt",
+    "path": "pdf/Notes/OS/Unit2 CPU Scheduling.ppt",
+    "category": "notes",
+    "subject": "OS",
+    "size": "3.6 MB",
+    "type": "ppt"
+  },
+  {
+    "name": "average.pdf",
+    "path": "pdf/Notes/PEA/average.pdf",
+    "category": "notes",
+    "subject": "PEA",
+    "size": "339.8 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Conclusion ppt of profit & Loss.pdf",
+    "path": "pdf/Notes/PEA/Conclusion ppt of profit & Loss.pdf",
+    "category": "notes",
+    "subject": "PEA",
+    "size": "1.1 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Conclusion ppt of SI & CI.pdf",
+    "path": "pdf/Notes/PEA/Conclusion ppt of SI & CI.pdf",
+    "category": "notes",
+    "subject": "PEA",
+    "size": "2.8 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "PEA-305_L11_Logical Reasoning.pptx",
+    "path": "pdf/Notes/PEA/PEA-305_L11_Logical Reasoning.pptx",
+    "category": "notes",
+    "subject": "PEA",
+    "size": "424 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "PEA-305_L1_VEDIC MATHS.pptx",
+    "path": "pdf/Notes/PEA/PEA-305_L1_VEDIC MATHS.pptx",
+    "category": "notes",
+    "subject": "PEA",
+    "size": "1.4 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "PEA-305_L2_Number system.pptx",
+    "path": "pdf/Notes/PEA/PEA-305_L2_Number system.pptx",
+    "category": "notes",
+    "subject": "PEA",
+    "size": "1.2 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "PEA-305_L3_Number system .pptx",
+    "path": "pdf/Notes/PEA/PEA-305_L3_Number system .pptx",
+    "category": "notes",
+    "subject": "PEA",
+    "size": "937.3 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "PEA-305_L4_Average.pptx",
+    "path": "pdf/Notes/PEA/PEA-305_L4_Average.pptx",
+    "category": "notes",
+    "subject": "PEA",
+    "size": "1.5 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "PEA-305_L5_percentage.pptx",
+    "path": "pdf/Notes/PEA/PEA-305_L5_percentage.pptx",
+    "category": "notes",
+    "subject": "PEA",
+    "size": "453.3 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "PEA-305_L6_percentage.pptx",
+    "path": "pdf/Notes/PEA/PEA-305_L6_percentage.pptx",
+    "category": "notes",
+    "subject": "PEA",
+    "size": "539.4 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "PEA-305_L7_profit and loss.pptx",
+    "path": "pdf/Notes/PEA/PEA-305_L7_profit and loss.pptx",
+    "category": "notes",
+    "subject": "PEA",
+    "size": "1.7 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "PEA-305_L8_profit and loss.pptx",
+    "path": "pdf/Notes/PEA/PEA-305_L8_profit and loss.pptx",
+    "category": "notes",
+    "subject": "PEA",
+    "size": "339 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "PEA-305_L9_SI&CI.pptx",
+    "path": "pdf/Notes/PEA/PEA-305_L9_SI&CI.pptx",
+    "category": "notes",
+    "subject": "PEA",
+    "size": "1.2 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "Zero 305.ppt",
+    "path": "pdf/Notes/PEA/Zero 305.ppt",
+    "category": "notes",
+    "subject": "PEA",
+    "size": "708.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "1 Time & Work.pptx",
+    "path": "pdf/Notes/PEA306 Analytical/1 Time & Work.pptx",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "294.7 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "10 Mensuration.ppt",
+    "path": "pdf/Notes/PEA306 Analytical/10 Mensuration.ppt",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "771 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "11 Mensuration.ppt",
+    "path": "pdf/Notes/PEA306 Analytical/11 Mensuration.ppt",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "558.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "12 Calendar.pptx",
+    "path": "pdf/Notes/PEA306 Analytical/12 Calendar.pptx",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "611.3 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "13 Clocks.ppt",
+    "path": "pdf/Notes/PEA306 Analytical/13 Clocks.ppt",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "628 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "15 Time Speed Distance.pptx",
+    "path": "pdf/Notes/PEA306 Analytical/15 Time Speed Distance.pptx",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "145 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "16 Time Speed Distance.pptx",
+    "path": "pdf/Notes/PEA306 Analytical/16 Time Speed Distance.pptx",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "95.2 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "17 Problems on trains.ppt",
+    "path": "pdf/Notes/PEA306 Analytical/17 Problems on trains.ppt",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "626.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "18 Boats and streams.ppt",
+    "path": "pdf/Notes/PEA306 Analytical/18 Boats and streams.ppt",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "825.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "2 Chain rule.pptx",
+    "path": "pdf/Notes/PEA306 Analytical/2 Chain rule.pptx",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "273.9 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "20 Height and Distance.ppt",
+    "path": "pdf/Notes/PEA306 Analytical/20 Height and Distance.ppt",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "747 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "21 Analytical Reasoning.ppt",
+    "path": "pdf/Notes/PEA306 Analytical/21 Analytical Reasoning.ppt",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "409.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "22 Analytical Reasoning.ppt",
+    "path": "pdf/Notes/PEA306 Analytical/22 Analytical Reasoning.ppt",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "391 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "24 Data Interpretation.ppt",
+    "path": "pdf/Notes/PEA306 Analytical/24 Data Interpretation.ppt",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "873 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "25 Data Interpretation.pptx",
+    "path": "pdf/Notes/PEA306 Analytical/25 Data Interpretation.pptx",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "2.3 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "26 Data Sufficiency.ppt",
+    "path": "pdf/Notes/PEA306 Analytical/26 Data Sufficiency.ppt",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "583 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "3 Pipes and cistern.pptx",
+    "path": "pdf/Notes/PEA306 Analytical/3 Pipes and cistern.pptx",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "317.1 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "5 Syllogism.pptx",
+    "path": "pdf/Notes/PEA306 Analytical/5 Syllogism.pptx",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "639 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "6 Syllogism.pptx",
+    "path": "pdf/Notes/PEA306 Analytical/6 Syllogism.pptx",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "1.3 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "7 Number ranking test.ppt",
+    "path": "pdf/Notes/PEA306 Analytical/7 Number ranking test.ppt",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "507.5 KB",
+    "type": "ppt"
+  },
+  {
+    "name": "frmCourseSyllabusIPDownload.pdf",
+    "path": "pdf/Notes/PEA306 Analytical/frmCourseSyllabusIPDownload.pdf",
+    "category": "notes",
+    "subject": "PEA306 Analytical",
+    "size": "145.8 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "1b0d4996260f1292da27252ac2913a1d.jpg",
+    "path": "pdf/Notes/PEL125/1b0d4996260f1292da27252ac2913a1d.jpg",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "115.6 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "50Englishproverbsyoushoulduseinyourspeechwordscoach.com_724x1024.png",
+    "path": "pdf/Notes/PEL125/50Englishproverbsyoushoulduseinyourspeechwordscoach.com_724x1024.png",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "424 KB",
+    "type": "png"
+  },
+  {
+    "name": "91e0c0411c7a09c81125ff061ec28172.jpg",
+    "path": "pdf/Notes/PEL125/91e0c0411c7a09c81125ff061ec28172.jpg",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "129 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "a49dde8bb943eab4130a88ebe4a7ada4.jpg",
+    "path": "pdf/Notes/PEL125/a49dde8bb943eab4130a88ebe4a7ada4.jpg",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "20.6 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "Blog writing.pptx",
+    "path": "pdf/Notes/PEL125/Blog writing.pptx",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "534.7 KB",
+    "type": "pptx"
+  },
+  {
+    "name": "d7744e88a5837a83c671c131afcdf4b2.jpg",
+    "path": "pdf/Notes/PEL125/d7744e88a5837a83c671c131afcdf4b2.jpg",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "77.8 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "Direct and Indirect Speech.pptx",
+    "path": "pdf/Notes/PEL125/Direct and Indirect Speech.pptx",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "2.9 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "eef990ef840fd8220412b1e6cffb7b77.jpg",
+    "path": "pdf/Notes/PEL125/eef990ef840fd8220412b1e6cffb7b77.jpg",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "152.6 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "Final PEL125 ZERO LEC.pdf",
+    "path": "pdf/Notes/PEL125/Final PEL125 ZERO LEC.pdf",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "1.6 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "gradable ungradable.png",
+    "path": "pdf/Notes/PEL125/gradable ungradable.png",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "590 KB",
+    "type": "png"
+  },
+  {
+    "name": "IMG20240316WA0017.jpg",
+    "path": "pdf/Notes/PEL125/IMG20240316WA0017.jpg",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "152.7 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "PEL125_Lecture 13_IDIOMS _ PROVERBS2.pptx",
+    "path": "pdf/Notes/PEL125/PEL125_Lecture 13_IDIOMS _ PROVERBS2.pptx",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "1.3 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "PEL125_Lecture10_Articles.pptx",
+    "path": "pdf/Notes/PEL125/PEL125_Lecture10_Articles.pptx",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "5.5 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "PEL125_Lecture11_Quantifiers.pptx",
+    "path": "pdf/Notes/PEL125/PEL125_Lecture11_Quantifiers.pptx",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "3.8 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "PEL125_Lecture12_Phrasal verbs.pptx",
+    "path": "pdf/Notes/PEL125/PEL125_Lecture12_Phrasal verbs.pptx",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "4.6 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "PEL125_Lecture13_Word Formation1.pptx",
+    "path": "pdf/Notes/PEL125/PEL125_Lecture13_Word Formation1.pptx",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "10.7 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "PEL125_Lecture1_Tense.pdf",
+    "path": "pdf/Notes/PEL125/PEL125_Lecture1_Tense.pdf",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "856.1 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "PEL125_Lecture2_Tense.pptx",
+    "path": "pdf/Notes/PEL125/PEL125_Lecture2_Tense.pptx",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "1.1 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "PEL125_Lecture3_Modal Verbs.pptx",
+    "path": "pdf/Notes/PEL125/PEL125_Lecture3_Modal Verbs.pptx",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "3 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "PEL125_Lecture4_Voice.pptx",
+    "path": "pdf/Notes/PEL125/PEL125_Lecture4_Voice.pptx",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "1.4 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "PEL125_Lecture5_Parts of Speech.pptx",
+    "path": "pdf/Notes/PEL125/PEL125_Lecture5_Parts of Speech.pptx",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "4.7 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "PEL125_Lecture6_ADVERB.pptx",
+    "path": "pdf/Notes/PEL125/PEL125_Lecture6_ADVERB.pptx",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "18.6 MB",
+    "type": "pptx"
+  },
+  {
+    "name": "PEL125_Lecture9_Clauses.pdf",
+    "path": "pdf/Notes/PEL125/PEL125_Lecture9_Clauses.pdf",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "14 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "position of averbs.jpg",
+    "path": "pdf/Notes/PEL125/position of averbs.jpg",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "17.6 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "Royal order of adjectives.png",
+    "path": "pdf/Notes/PEL125/Royal order of adjectives.png",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "361.9 KB",
+    "type": "png"
+  },
+  {
+    "name": "Screenshot_20240123_1249262.jpg",
+    "path": "pdf/Notes/PEL125/Screenshot_20240123_1249262.jpg",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "36.1 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "Screenshot_20240123_1254312.jpg",
+    "path": "pdf/Notes/PEL125/Screenshot_20240123_1254312.jpg",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "30.2 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "Screenshot_20240125_1902232.jpg",
+    "path": "pdf/Notes/PEL125/Screenshot_20240125_1902232.jpg",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "86 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "Screenshot_20240125_1902302.jpg",
+    "path": "pdf/Notes/PEL125/Screenshot_20240125_1902302.jpg",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "94.9 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "shall.jpg",
+    "path": "pdf/Notes/PEL125/shall.jpg",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "79.4 KB",
+    "type": "jpg"
+  },
+  {
+    "name": "tenses detail.png",
+    "path": "pdf/Notes/PEL125/tenses detail.png",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "353.5 KB",
+    "type": "png"
+  },
+  {
+    "name": "tenses2.png",
+    "path": "pdf/Notes/PEL125/tenses2.png",
+    "category": "notes",
+    "subject": "PEL125",
+    "size": "577.5 KB",
+    "type": "png"
+  },
+  {
+    "name": "HeNe Laser4.pdf",
+    "path": "pdf/Notes/PHY110/HeNe Laser4.pdf",
+    "category": "notes",
+    "subject": "PHY110",
+    "size": "1.3 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Losses.pdf",
+    "path": "pdf/Notes/PHY110/Losses.pdf",
+    "category": "notes",
+    "subject": "PHY110",
+    "size": "1.6 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "NdYAG LASER4.pdf",
+    "path": "pdf/Notes/PHY110/NdYAG LASER4.pdf",
+    "category": "notes",
+    "subject": "PHY110",
+    "size": "1012 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "PHY110_ZeroLecture2.pdf",
+    "path": "pdf/Notes/PHY110/PHY110_ZeroLecture2.pdf",
+    "category": "notes",
+    "subject": "PHY110",
+    "size": "1.4 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "Positive Psychology Detailed Notes.pdf",
+    "path": "pdf/Notes/PSY292/Positive Psychology Detailed Notes.pdf",
+    "category": "notes",
+    "subject": "PSY292",
+    "size": "1.5 MB",
+    "type": "pdf"
+  },
+  {
+    "name": "psy 292  2026  impo qstn.pdf",
+    "path": "pdf/Notes/PSY292/psy 292  2026  impo qstn.pdf",
+    "category": "notes",
+    "subject": "PSY292",
+    "size": "135.7 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "PSY292. copy.pdf",
+    "path": "pdf/Notes/PSY292/PSY292. copy.pdf",
+    "category": "notes",
+    "subject": "PSY292",
+    "size": "369.5 KB",
+    "type": "pdf"
+  },
+  {
+    "name": "Academic helper toolkit",
+    "path": "calculator.html",
+    "category": "tools",
+    "subject": "Utilities",
+    "size": "Internal",
+    "type": "tool"
+  },
+  {
+    "name": "Revision planner",
+    "path": "attendance.html",
+    "category": "tools",
+    "subject": "Utilities",
+    "size": "Internal",
+    "type": "tool"
+  }
+]

@@ -1,0 +1,7 @@
+cd c:\cassandra\bin
+cassandra
+
+open cmd again as admin
+
+cd c:\cassandra\bin
+cqlsh

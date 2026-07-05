@@ -1,0 +1,46 @@
+Hive
+
+start Hadoop
+startnetworkserver -h 0.0.0.0
+
+open cmd admin
+cd c:\hive\bin
+hive
+
+show databases;
+show tables;
+
+select * from student;
+
+
+hive --service schematool -dbType derby -initSchema
+
+
+
+CREATE TABLE Employee_skills (
+    name STRING,
+    skills ARRAY<STRING>
+);
+
+hive> insert into Employee_skills
+    > values ('rahul',array('java','python','sql','hadoop'));
+
+select employee_name,skills[0] from Employee_skills;
+
+
+
+use rio;             //for use database
+
+create table student_marks(roll_no INT, name String, subject String, marks INT,section String)row format delimited fields terminated by ',' stored as textfile;
+
+load data local inpath "E:\Downloads\partition.txt" into table student_marks;
+
+
+
+SET hive.enforce.bucketing = true;
+
+create table st_bucket(roll_no INT, name String, subject string, marks Int, section string) clustered by (roll_no) into 3 buckets row format delimited fields terminated by ',';
+
+insert overwrite table st_bucket select*from student_marks;
+
+.

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CGPA Booster | Resource Hub</title>
+  <meta name="description" content="Search study notes, PYQ guidelines, and academic calculator resources.">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  
+  <!-- Tailwind CSS Play CDN & Configuration -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="js/tailwind-config.js"></script>
+  <script src="js/theme.js"></script>
+  
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="css/style.css">
+  
+  <!-- Main Script -->
+  <script defer src="js/script.js"></script>
+  <!-- Search and Rendering Logic -->
+  <script defer src="js/search.js"></script>
+</head>
+<body class="bg-mint-light dark:bg-mint-dark text-stone-800 dark:text-stone-200 font-sans transition-colors duration-300 min-h-screen flex flex-col">
+
+  <!-- Header -->
+  <header class="sticky top-0 z-50 w-full bg-white/80 dark:bg-mint-cardDark/80 border-b border-mint-borderLight dark:border-mint-borderDark backdrop-blur-md">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16">
+        
+        <!-- Logo -->
+        <a class="flex items-center gap-3 group" href="index.html">
+          <div class="h-9 w-9 rounded-lg bg-primary-600 flex items-center justify-center text-white font-extrabold shadow-sm group-hover:scale-105 transition-transform">
+            🌿
+          </div>
+          <div class="flex flex-col">
+            <span class="font-bold text-base tracking-tight text-stone-850 dark:text-stone-100">CGPA Booster</span>
+            <span class="text-[9px] text-primary-600 dark:text-primary-400 font-bold uppercase tracking-wider -mt-1">Study Dashboard</span>
+          </div>
+        </a>
+
+        <!-- Desktop Navigation -->
+        <nav class="hidden md:flex items-center gap-6 h-full">
+          <a href="index.html" data-nav class="px-1 py-5 text-sm font-semibold transition-all duration-200">Home</a>
+          <a href="notes.html" data-nav class="px-1 py-5 text-sm font-semibold transition-all duration-200">Notes</a>
+          <a href="calculator.html" data-nav class="px-1 py-5 text-sm font-semibold transition-all duration-200">Calculator</a>
+          <a href="attendance.html" data-nav class="px-1 py-5 text-sm font-semibold transition-all duration-200">Attendance</a>
+          <a href="resources.html" data-nav class="px-1 py-5 text-sm font-semibold transition-all duration-200">Resources</a>
+          <a href="about.html" data-nav class="px-1 py-5 text-sm font-semibold transition-all duration-200">About</a>
+        </nav>
+
+        <!-- Right Side Controls -->
+        <div class="flex items-center gap-3">
+          <button id="theme-toggle" type="button" aria-label="Toggle Theme" class="p-2 rounded-lg border border-mint-borderLight dark:border-mint-borderDark bg-white/50 dark:bg-mint-cardDark/50 hover:bg-mint-light dark:hover:bg-mint-dark transition-colors shadow-mint-sm"></button>
+          
+          <button id="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" class="md:hidden p-2 rounded-lg border border-mint-borderLight dark:border-mint-borderDark bg-white/50 dark:bg-mint-cardDark/50 hover:bg-mint-light dark:hover:bg-mint-dark transition-colors text-stone-700 dark:text-stone-300">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="4" y1="12" x2="20" y2="12"></line>
+              <line x1="4" y1="6" x2="20" y2="6"></line>
+              <line x1="4" y1="18" x2="20" y2="18"></line>
+            </svg>
+          </button>
+        </div>
+        
+      </div>
+    </div>
+
+    <!-- Mobile Navigation Menu -->
+    <nav id="site-nav" class="hidden md:hidden border-t border-mint-borderLight dark:border-mint-borderDark bg-white/95 dark:bg-mint-cardDark/95 backdrop-blur-lg flex-col gap-2 p-4 shadow-xl">
+      <a href="index.html" data-nav class="px-4 py-2 rounded-xl text-sm font-semibold transition-all">Home</a>
+      <a href="notes.html" data-nav class="px-4 py-2 rounded-xl text-sm font-semibold transition-all">Notes</a>
+      <a href="calculator.html" data-nav class="px-4 py-2 rounded-xl text-sm font-semibold transition-all">Calculator</a>
+      <a href="attendance.html" data-nav class="px-4 py-2 rounded-xl text-sm font-semibold transition-all">Attendance</a>
+      <a href="resources.html" data-nav class="px-4 py-2 rounded-xl text-sm font-semibold transition-all">Resources</a>
+      <a href="about.html" data-nav class="px-4 py-2 rounded-xl text-sm font-semibold transition-all">About</a>
+    </nav>
+  </header>
+
+  <!-- Main Content -->
+  <main class="flex-grow max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-10 flex flex-col gap-8">
+    
+    <!-- Hero Section -->
+    <section class="flex flex-col gap-2 animate-fade-in-up">
+      <span class="text-xs font-bold uppercase tracking-wider text-primary-600 dark:text-primary-400">Search directory</span>
+      <h1 class="text-2xl sm:text-3xl font-black tracking-tight">Resource Hub</h1>
+      <p class="text-stone-550 dark:text-stone-400 max-w-xl text-xs sm:text-sm">
+        Search study notes, past years exam questions, and online academic tools indexed from local directory files.
+      </p>
+    </section>
+
+    <!-- Search and Filter Controls -->
+    <section class="flex flex-col md:flex-row md:items-center justify-between gap-5 bg-white dark:bg-mint-cardDark border border-mint-borderLight dark:border-mint-borderDark rounded-2xl p-5 shadow-mint-sm animate-fade-in">
+      
+      <!-- Keyword Input -->
+      <div class="flex-grow max-w-md relative">
+        <span class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-primary-600">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        </span>
+        <input class="w-full pl-9 pr-4 py-2 text-xs rounded-lg border border-mint-borderLight dark:border-mint-borderDark bg-mint-light dark:bg-mint-dark focus:border-primary-600 focus:ring-1 focus:ring-primary-600 outline-none transition-colors dark:text-white" type="search" placeholder="Search files by subject name..." data-resource-search>
+      </div>
+
+      <!-- Categories Filter Chips -->
+      <div class="flex flex-wrap gap-2">
+        <button class="px-3.5 py-1.5 rounded-lg text-xs font-bold border transition-all shadow-mint-sm" type="button" data-filter="all">All</button>
+        <button class="px-3.5 py-1.5 rounded-lg text-xs font-bold border transition-all shadow-cozy-sm" type="button" data-filter="notes">Notes</button>
+        <button class="px-3.5 py-1.5 rounded-lg text-xs font-bold border transition-all shadow-cozy-sm" type="button" data-filter="pyq">PYQs</button>
+        <button class="px-3.5 py-1.5 rounded-lg text-xs font-bold border transition-all shadow-cozy-sm" type="button" data-filter="tool">Tools</button>
+      </div>
+
+    </section>
+
+    <!-- Resources Grid Container -->
+    <section id="resource-grid" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 animate-fade-in">
+      <!-- Generated dynamically by search.js -->
+      <div class="col-span-full p-8 text-center text-stone-500 dark:text-stone-400">
+        <p class="text-xs italic">Loading resources...</p>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="mt-auto border-t border-mint-borderLight dark:border-mint-borderDark bg-white dark:bg-mint-cardDark py-6 transition-colors duration-300">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div class="flex items-center gap-2">
+        <div class="h-6 w-6 rounded bg-primary-600 flex items-center justify-center text-white text-xs font-bold">🌿</div>
+        <span class="text-xs font-bold tracking-tight text-stone-850 dark:text-stone-200">CGPA Booster</span>
+      </div>
+      <p class="text-[10px] text-stone-400 dark:text-stone-500 text-center sm:text-left">
+        &copy; <span id="current-year" data-year></span> CGPA Booster. Built for personal academic study.
+      </p>
+    </div>
+  </footer>
+
+</body>
+</html>

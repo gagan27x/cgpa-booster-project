@@ -1,0 +1,11 @@
+{
+  "name": "cgpa-booster-project",
+  "version": "1.0.0",
+  "description": "CGPA calculator, attendance tracker, and local notes hub.",
+  "scripts": {
+    "dev": "npx http-server -p 5500",
+    "generate": "node scripts/generate-resources.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

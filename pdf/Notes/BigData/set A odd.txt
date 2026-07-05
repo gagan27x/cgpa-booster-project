@@ -1,0 +1,12 @@
+1.
+a)create a new directry finance_project Hdfs
+b)verify the directry finance project exist
+c)create a empty file report_summry.txt inside finance project
+d)change the owner and group to your first and last name
+e)check weather report_summry.txt is empty
+
+2.
+a)upload a file name transections.csv from local system to /user/finance/raw_transections in hdfs
+b)move transection.csv from /user/finance/raw_transections to /user/finance/processed_transection
+c)copy transection.csv from /user/finance/processed_transection to /user/finance/backup_transection
+d)delete the original transection.csv from /user/finance/processed_transection

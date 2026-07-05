@@ -1,0 +1,22 @@
+first start Hadoop
+
+
+cd C:\hbase\bin
+
+start-hbase.cmd
+
+hbase shell
+
+
+create_namespace 'company'             //create a namespace company
+
+create 'employee', 'details'         //create a table employee with family details
+
+put 'employee', '101', 'details:name', 'rahul'    //in employee table insering key 101 and name Rahul //it will create name table automatically
+
+disable 'employee'
+drop 'employee'
+
+Difference Between Column Family and Column
+                        Column Family	            Column
+Definition	Group of related columns	Individual data field

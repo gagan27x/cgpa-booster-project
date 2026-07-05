@@ -1,0 +1,155 @@
+---check if everything installed correctly or not
+open powershell and click on run as administrator
+1)java -version
+2)Hadoop
+3)Hadoop version
+
+--formatting the namenode in case of issues 
+hdfs namenode -format
+
+1) go to the proper directory  - C:\hadoopsetup\hadoop-3.2.4\sbin
+once inside this location  then write the statement 
+.\start-dfs.cmd
+
+after this 2 more cmd's will open, now write
+
+./start-yarn.cmd
+
+on the main cmd - starting yarn daemons- meaning starting background processes.
+or type start-all.cmd 
+
+jps - will show all background processes
+
+open the links given to check if everything is properly working or not.
+
+http://localhost:9870/dfshealth.html
+http://localhost:9864/datanode.html
+http://localhost:8088/cluster
+
+NOTE - every time whenever you want to work on Hadoop, open power shell
+1 ) cd C:\hadoopsetup\hadoop-3.2.4\sbin
+2 ) .\start-dfs.cmd
+3 ) ./start-yarn.cmd
+4 ) jps
+
+-------------------------------COMMANDS------------------------------------
+
+1. make/create directory - hadoop fs -mkdir /saqib
+
+2. list the contents - hadoop fs -ls /
+
+3.1- create an empty file - Hadoop fs -touchz /saqib/demo.txt
+
+3.2- display the file created - hadoop fs -ls /saqib
+
+4. copy from local to HDFS - hadoop fs -put "C:\Users\91991\OneDrive\Desktop\sample.txt" /abc (put/copyFromLocal)
+
+5. displaying the contents of the file - hadoop fs -cat /abc/sample.txt
+
+6. copy from HDFS to local - hadoop fs -get /abc/demo.txt "C:\Users\91991\OneDrive\Desktop\" ( get/copyToLocal)
+
+7. copy from one directory to another - hadoop fs -cp /abc/sample.txt /saqib/
+
+8. move from one directory to another -  hadoop fs -mv /saqib/demo1.txt /abc/    (create a file first -  hadoop fs -touchz /saqib/demo1.txt)
+
+9 - how to check the disk usage i.e. size of each file/directory (individually) 
+
+9.1 - size of each directory - hadoop fs -du / 
+
+9.2 - size of each file present under a specific directory - Hadoop fs -du /abc
+
+10. how to check the disk usage i.e. size of directory (consolidated)-   hadoop fs -dus /abc
+
+11. test command - used for checking conditions - 
+
+11.1 - check if given path is directory or not ( 0 - if directory , 1 if not ) - Hadoop fs -test -d /abc , echo $?
+if echo $? does not work then use echo %errorlevel%
+
+11.2 - check if given path exist or not ( 0 - if exists, 1 if not ) - Hadoop fs -test -e /abc ,echo$?
+
+11.3 - check if given path is file or not ( 0 - if file , 1 if not ) - Hadoop fs -test -f /abc/sample.txt
+
+11.4 - check if file is empty or not ( 0 - if it has content , 1 if not ) - Hadoop fs -test -z /abc/sample.txt
+
+12 - move from local to HDFS -  hadoop fs -moveFromLocal "C:\Users\91991\OneDrive\Desktop\testing.txt" /abc/
+
+13 - move from HDFS to local - 2 steps are involved in this command 
+
+13.1 - copy from HDFS to local - already discussed
+13.2 - delete the file from HDFS using rm command - syntax discussed later 
+
+14 - getmerge - merges the contents of multiple HDFS files under a single directory into 1 file which will be available in local file system - 
+hadoop fs -getmerge -nl /abc/ "C:/Users/91991/OneDrive/Desktop/mergeResult.txt"
+
+15 - appendToFile - we have 2 files in local and we want to append them into HDFS under a single file
+
+a) create an empty file using touchz command
+b) append in that file the contents from Local 
+
+hadoop fs -appendToFile "C:\Users\91991\OneDrive\Desktop\t1.txt" "C:\Users\91991\OneDrive\Desktop\t2.txt" /saqib/appendHDFS.txt
+
+16 - checksum command - to check if file has been modified or not - hadoop fs -checksum /abc/sample.txt (the alpha numeric string)
+
+17 - check status of HDFS if running fine or not - hadoop fsck - /
+
+18 - count number of directories and files - hadoop fs -count /saqib
+
+19 - how to delete a file/directory
+
+19.1 - delete a file - hadoop fs -rm /saqib/test.txt
+
+19.2 - delete an empty directory -  hadoop fs -rmdir /sachin
+
+19.3 - delete a non empty directory -  hadoop fs -rm -r /abc/Desktop
+
+
+20 - how to change the group of any file - hadoop fs -chgrp saqib /saqib/sample.txt (saqib is the name of the group instead of supergroup. Verify using the ls command )
+
+21 - know the statistics of a file 
+
+21.1 - know the size of a file in bytes -  Hadoop fs -stat %b /abc/sample.txt
+
+21.2 - know the group name - Hadoop fs -stat %g /abc/sample.txt
+
+21.3 - know the replication factor of a file - Hadoop fs -stat %r /abc/sample.txt
+
+21.4 - know the user of the file - Hadoop fs -stat %u /abc/sample.txt
+
+21.5 - when the file was last modified - Hadoop fs -stat %y /abc/sample.txt
+
+22 - usage - if you want to know about any command we can use this - hadoop fs -usage mkdir
+
+23 - help command - syntax and description for any command - hadoop fs -help cat
+
+24 - head command - print first 1 kb of file - hadoop fs -head /abc/head_and_tail.txt
+
+25 - tail command - print last 1 kb of file - hadoop fs -tail /abc/head_and_tail.txt
+
+26 - expunge command - get rid of all files available in trash in respect to HDFS - Hadoop fs -expunge
+
+27.1 - changing ownership of any file -  hadoop fs -chown ri /abc/head_and_tail.txt
+
+27.2 - changing the ownership and groupname together -  hadoop fs -chown sa:saqib /saqib/sample.txt  ( sa - new owner & saqib - new group )
+
+28 - change the permissions ( read-4/write-2 /execute-1 ) - Hadoop fs-chmod 777 /abc/head_and_tail.txt
+
+-rw-r--r-- 
+the first hyphen means it is a file and not directory
+rw- it means user 
+r-- means group
+r-- others
+
+29 - change replication factor - Hadoop fs -setrep -w 3 /abc/sample.txt
+
+30 - truncate - reduce the file size of lengthy long files  ( mostly log files ) - Hadoop fs -truncate -w 10 /abc/sample.txt 
+
+31 -  set/get attribute - extended attribute apart from owner/groupname/replication factor - 4 prefixes are - user,trusted,system,security ( by default is user ) -  Hadoop fs -setfattr -n 'user.ap' -v this isdummyfile /abc/sample.txt ( n is name and v is value )
+
+Hadoop fs -getfattr -d /abc/sample.txt
+
+*****To terminate any command in between press - ctrl+C*****
+
+
+
+
+****************************************************************************************************************************************************
